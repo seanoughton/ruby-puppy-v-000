@@ -4,4 +4,9 @@ class Dog
     @name = name
     @@all << @name
   end
+
+  def clear_all
+  end
+
+
 end
